@@ -2,12 +2,12 @@
 <div style="text-align: justify"> 
 Evento creado por la comunidad de licenciados en ciencias de la computación. Este evento específicamente busca inspirar a las nuevas mentes que se unen a nosotros.
 </div>
-
+<br>
 
 <div style="text-align: justify"> 
 El evento cubrirá toda una semana, desde el lunes 27 de septiembre hasta el viernes 1 de agosto.
 </div>
-
+<br>
 
 <div style="text-align: justify"> 
 Este evento se compone de conferencias impartidas por estudiantes dentro de la carrera, egresados y profesores. Hay diferentes temas que seguramente te encantarán y te inspirarán a seguir profundizando en este gran mundo de la computación.
