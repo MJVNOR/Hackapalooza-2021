@@ -1,5 +1,5 @@
 ## Hackapalooza 2021
-
+<div style="text-align: justify"> 
 Evento creado por la comunidad de licenciados en ciencias de la computación. Este evento específico busca inspirar a las nuevas mentes que se unen a nosotros.
 
 El evento cubrirá toda una semana, desde el lunes 27 de septiembre hasta el viernes 1 de agosto.
@@ -17,7 +17,7 @@ Si estás interesado en asistir a este evento y eres de la universidad de sonora
 Aquí se compartirán historias de éxitos y fracasos de los egresados de ciencias de la computación, también se darán consejos sobre cómo tener éxito en el campo.
 
 ¡Este evento es para cualquier persona que quiera aprender más sobre las ciencias de la computación!
-
+</div>
 ### Platicas y horarios:
 
 | Plática                                                                                                                                              	| Nombre del<br>precentador                                                                       	| Dia                        	| Hora                	| Link de<br>la plática 	|
