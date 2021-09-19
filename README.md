@@ -45,6 +45,7 @@ Aquí se compartirán historias de éxitos y fracasos de los egresados de cienci
 ¡Este evento es para cualquier persona que quiera aprender más sobre las ciencias de la computación!
 </div>
 </p>
+
 ### Platicas y horarios:
 
 | Plática                                                                                                                                              	| Nombre del<br>precentador                                                                       	| Dia                        	| Hora                	| Link de<br>la plática 	|
