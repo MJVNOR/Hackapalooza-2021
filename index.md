@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/MJVNOR/Hackapalooza-2021/blob/main/lcc.png?raw=true" alt="Sublime's custom image"/>
+</p>
 ## Hackapalooza 2021
 <p>
 <div style="text-align: justify"> 
