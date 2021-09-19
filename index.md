@@ -1,8 +1,13 @@
 ## Hackapalooza 2021
 
-You can use the [editor on GitHub](https://github.com/MJVNOR/Hackapalooza-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Evento creado por la comunidad de licenciados en ciencias de la computación. Este evento específico busca inspirar a las nuevas mentes que se unen a nosotros. 
+El evento cubrirá toda una semana, desde el lunes 27 de septiembre hasta el viernes 1 de agosto.
+Este evento se compone de conferencias impartidas por estudiantes dentro de la carrera, egresados y profesores. Hay diferentes temas que seguramente te encantarán y te inspirarán a seguir profundizando en este gran mundo de la computación. 
+Este evento será online y el formato utilizado es muy sencillo ya que se realizará en la plataforma zoom donde probablemente la mayoría de nosotros ya estamos familiarizados. Todos sabemos que la mayoría de las veces es muy interesante ver la presentación realizada en persona, sin embargo en este caso no es posible.
+La asistencia al evento es gratuita para todos. Está abierto tanto a los estudiantes de ciencias de la computación como a cualquier otro estudiante.
+Si estás interesado en asistir a este evento y eres de la universidad de sonora, asegúrate de registrarte en la plataforma para adquirir tus puntos culturest.
+Aquí se compartirán historias de éxitos y fracasos de los egresados de ciencias de la computación, también se darán consejos sobre cómo tener éxito en el campo.
+¡Este evento es para cualquier persona que quiera aprender más sobre las ciencias de la computación!
 
 ### Platicas y horarios:
 
