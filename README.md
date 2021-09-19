@@ -1,5 +1,7 @@
 # Hackapalooza 2021
-
+<p align="center">
+  <img src="https://github.com/MJVNOR/Hackapalooza-2021/blob/main/lcc.png?raw=true" alt="Sublime's custom image"/>
+</p>
 <p>
 <div style="text-align: justify"> 
 Evento creado por la comunidad de licenciados en ciencias de la computación. Este evento específicamente busca inspirar a las nuevas mentes que se unen a nosotros.
