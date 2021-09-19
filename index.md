@@ -1,8 +1,22 @@
-## Welcome to GitHub Pages
+## Hackapalooza 2021
 
 You can use the [editor on GitHub](https://github.com/MJVNOR/Hackapalooza-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Platicas y horarios:
+
+| Plática                                                                                                                                              	| Nombre del<br>precentador                                                                       	| Dia                        	| Hora                	| Link de<br>la plática 	|
+|------------------------------------------------------------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------	|----------------------------	|---------------------	|-----------------------	|
+| Mi experiencia laboral<br>como científico de datos.                                                                                                  	| Jordan Joel Urias Paramo                                                                        	| Lunes 27 de septiembre     	| 10am a 11am         	|                       	|
+| Consejos para escribir código C++ moderno.                                                                                                           	| José Luis Aguilera   Luzania                                                                    	| Lunes 27 de septiembre     	| 11:30 am a 12:30 pm 	|                       	|
+| Tu primer Resume: como hacer que CVa bien                                                                                                            	| María Fernanda Dominguez Acosta                                                                 	| Martes 28 de septiembre    	| 5pm a 6pm           	|                       	|
+| Cruzar la frontera para investigar (por un verano).                                                                                                  	| Ivan Alejandro Moreno Soto                                                                      	| Martes 28 de septiembre    	| 6pm a 7pm           	|                       	|
+| Maestria en Ciencia de datos.                                                                                                                        	| Julio Waissman Vilanova                                                                         	| Miércoles 29 de septiembre 	| 10am a 11am         	|                       	|
+| Platica con Iván López Sánchez:<br>Gerente del equipo "Global Decision Science" en el grupo de <br>Digital and Return Marketing Analytics en HP inc. 	| Iván López Sánchez                                                                              	| Miércoles 29 de septiembre 	| 11am a 12 pm        	|                       	|
+|                                                                                                                                                      	|                                                                                                 	|                            	|                     	|                       	|
+|                                                                                                                                                      	|                                                                                                 	|                            	|                     	|                       	|
+| Cafecito con mujeres de LCC                                                                                                                          	| Maria Fernanda Domínguez Acosta,<br>Maria Ximena Sandoval del Hoyo y<br>Nicole Castillo Machado 	| Viernes 01 de agosto       	| 5pm a 6pm           	|                       	|
 
 ### Markdown
 
