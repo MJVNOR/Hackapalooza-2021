@@ -58,7 +58,7 @@ Aquí se compartirán historias de éxitos y fracasos de los egresados de cienci
 
   Los premios vienen de los souvenirs de la universidad.
 
-  Los ganadores se mencionaran en la ultima platica del viernes 01 de octubre "Cafecito con mujeres de LCC"
+  Los ganadores se mencionaran en la ultima platica del viernes 01 de octubre "Cafecito con mujeres de LCC".
   
 
 ### Cualquier duda a:
