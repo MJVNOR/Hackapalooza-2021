@@ -60,6 +60,9 @@ Aquí se compartirán historias de éxitos y fracasos de los egresados de cienci
 
   Los ganadores se mencionaran en la ultima platica del viernes 01 de octubre "Cafecito con mujeres de LCC".
   
+<p align="center">
+  <img src="https://github.com/MJVNOR/Hackapalooza-2021/blob/main/Hack2021.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 ### Cualquier duda a:
   a218210174@unison.mx
