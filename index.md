@@ -47,6 +47,10 @@ Aquí se compartirán historias de éxitos y fracasos de los egresados de cienci
 ¡Este evento es para cualquier persona que quiera aprender más sobre las ciencias de la computación!
 </div>
 </p>
+
+### Cualquier duda a:
+  a218210174@unison.mx
+
 ### Platicas y horarios:
 
 | Plática                                                                                                                                        | Presentador                                                                               | Dia                        | Hora                | Link de la plática                            |
