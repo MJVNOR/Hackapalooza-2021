@@ -1,7 +1,7 @@
-# Hackapalooza 2021
 <p align="center">
   <img src="https://github.com/MJVNOR/Hackapalooza-2021/blob/main/lcc.png?raw=true" alt="Sublime's custom image"/>
 </p>
+## Hackapalooza 2021
 <p>
 <div style="text-align: justify"> 
 Evento creado por la comunidad de licenciados en ciencias de la computación. Este evento específicamente busca inspirar a las nuevas mentes que se unen a nosotros.
@@ -48,16 +48,19 @@ Aquí se compartirán historias de éxitos y fracasos de los egresados de cienci
 </div>
 </p>
 
+### Cualquier duda a:
+  a218210174@unison.mx
+
 ### Platicas y horarios:
 
-| Plática                                                                                                                                              	| Nombre del<br>precentador                                                                       	| Dia                        	| Hora                	| Link de<br>la plática 	|
-|------------------------------------------------------------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------	|----------------------------	|---------------------	|-----------------------	|
-| Mi experiencia laboral<br>como científico de datos.                                                                                                  	| Jordan Joel Urias Paramo                                                                        	| Lunes 27 de septiembre     	| 10am a 11am         	|                       	|
-| Consejos para escribir código C++ moderno.                                                                                                           	| José Luis Aguilera   Luzania                                                                    	| Lunes 27 de septiembre     	| 11:30 am a 12:30 pm 	|                       	|
-| Tu primer Resume: como hacer que CVa bien                                                                                                            	| María Fernanda Dominguez Acosta                                                                 	| Martes 28 de septiembre    	| 5pm a 6pm           	|                       	|
-| Cruzar la frontera para investigar (por un verano).                                                                                                  	| Ivan Alejandro Moreno Soto                                                                      	| Martes 28 de septiembre    	| 6pm a 7pm           	|                       	|
-| Maestria en Ciencia de datos.                                                                                                                        	| Julio Waissman Vilanova                                                                         	| Miércoles 29 de septiembre 	| 9am a 11am         	|                       	|
-| Platica con Iván López Sánchez:<br>Gerente del equipo "Global Decision Science" en el grupo de <br>Digital and Return Marketing Analytics en HP inc. 	| Iván López Sánchez                                                                              	| Miércoles 29 de septiembre 	| 11am a 12 pm        	|                       	|
-|                                                                                                                                                      	|                                                                                                 	|                            	|                     	|                       	|
-|                                                                                                                                                      	|                                                                                                 	|                            	|                     	|                       	|
-| Cafecito con mujeres de LCC                                                                                                                          	| Maria Fernanda Domínguez Acosta,<br>Maria Ximena Sandoval del Hoyo y<br>Nicole Castillo Machado 	| Viernes 01 de octubre       	| 5pm a 6pm           	|                       	|
+| Plática                                                                                                                                        | Presentador                                                                               | Dia                        | Hora                | Link de la plática                            |
+|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------|---------------------|-----------------------------------------------|
+| Mi experiencia laboral como científico de datos.                                                                                               | Jordan Joel Urias Paramo                                                                  | Lunes 27 de septiembre     | 10am a 11am         | [Link](https://us06web.zoom.us/j/87142695599) |
+| Consejos para escribir código C++ moderno.                                                                                                     | José Luis Aguilera   Luzania                                                              | Lunes 27 de septiembre     | 11:30 am a 12:30 pm | [Link](https://us06web.zoom.us/j/88672307754) |
+| Tu primer Resume: como hacer que CVa bien                                                                                                      | María Fernanda Dominguez Acosta                                                           | Martes 28 de septiembre    | 5pm a 6pm           | [Link](https://us06web.zoom.us/j/85798609027) |
+| Cruzar la frontera para investigar (por un verano).                                                                                            | Ivan Alejandro Moreno Soto                                                                | Martes 28 de septiembre    | 6pm a 7pm           | [Link](https://us06web.zoom.us/j/88227198176) |
+| Ventajas de incursionar en la Ciencia de datos                                                                                                 | Julio Waissman Vilanova                                                                   | Miércoles 29 de septiembre | 9am a 11am          | [Link](https://us06web.zoom.us/j/87548280803) |
+| Platica con Iván López Sánchez: Gerente del equipo "Global Decision Science" en el grupo de  Digital and Return Marketing Analytics en HP inc. | Iván López Sánchez                                                                        | Miércoles 29 de septiembre | 11am a 12 pm        | [Link](https://us06web.zoom.us/j/86886414869) |
+|                                                                                                                                                |                                                                                           |                            |                     |                                               |
+|                                                                                                                                                |                                                                                           |                            |                     |                                               |
+| Cafecito con mujeres de LCC                                                                                                                    | Maria Fernanda Domínguez Acosta, Maria Ximena Sandoval del Hoyo y Nicole Castillo Machado | Viernes 01 de octubre      | 5pm a 6pm           | [Link](https://us06web.zoom.us/j/86758457932) |
