@@ -52,9 +52,9 @@ Aquí se compartirán historias de éxitos y fracasos de los egresados de cienci
   
   [Link del Desafío](https://www.hackerrank.com/hackapalooza-2021)
   
-  Parte del evento del Hackapalooza-2021, esta este pequeño desafio para que compitas con tus demas compañeros.
+  Parte del evento del Hackapalooza-2021, esta este pequeño desafío para que compitas con tus demas compañeros.
 
-  Empieza el dia jueves 30 de septiembre a las 4 de la tarde y termina a las 9 de la noche.
+  Empieza el día jueves 30 de septiembre a las 4 de la tarde y termina a las 9 de la noche.
 
   Los premios vienen de los souvenirs de la universidad.
 
