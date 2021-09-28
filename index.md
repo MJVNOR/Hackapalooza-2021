@@ -48,6 +48,19 @@ Aquí se compartirán historias de éxitos y fracasos de los egresados de cienci
 </div>
 </p>
 
+### Desafío Hackapaloza-2021
+  
+  [Link del Desafío](https://www.hackerrank.com/hackapalooza-2021)
+  
+  Parte del evento del Hackapalooza-2021, esta este pequeño desafio para que compitas con tus demas compañeros.
+
+  Empieza el dia jueves 30 de septiembre a las 12 de la tarde y termina a las 9 de la noche.
+
+  Los premios vienen de los souvenirs de la universidad.
+
+  Los ganadores se mencionaran en la ultima platica del viernes 01 de octubre "Cafecito con mujeres de LCC"
+  
+
 ### Cualquier duda a:
   a218210174@unison.mx
 
@@ -61,6 +74,6 @@ Aquí se compartirán historias de éxitos y fracasos de los egresados de cienci
 | Cruzar la frontera para investigar (por un verano).                                                                                            | Ivan Alejandro Moreno Soto                                                                | Martes 28 de septiembre    | 6pm a 7pm           | [Link](https://us06web.zoom.us/j/88227198176)        |
 | Ventajas de incursionar en la Ciencia de datos                                                                                                 | Julio Waissman Vilanova                                                                   | Miércoles 29 de septiembre | 9am a 11am          | [Link](https://us06web.zoom.us/j/87548280803)        |
 | Platica con Iván López Sánchez: Gerente del equipo "Global Decision Science" en el grupo de  Digital and Return Marketing Analytics en HP inc. | Iván López Sánchez                                                                        | Miércoles 29 de septiembre | 11am a 12 pm        | [Link](https://us06web.zoom.us/j/86886414869)        |
-| Desafio Hackapalooza-2021                                                                                                                      |                                                                                           | Jueves 30 de septiembre    | 12pm a 9pm          | [Link](https://www.hackerrank.com/hackapalooza-2021) |
+| Desafío Hackapalooza-2021                                                                                                                      |                                                                                           | Jueves 30 de septiembre    | 12pm a 9pm          | [Link](https://www.hackerrank.com/hackapalooza-2021) |
 |                                                                                                                                                |                                                                                           |                            |                     |                                                      |
 | Cafecito con mujeres de LCC                                                                                                                    | Maria Fernanda Domínguez Acosta, Maria Ximena Sandoval del Hoyo y Nicole Castillo Machado | Viernes 01 de octubre      | 5pm a 6pm           | [Link](https://us06web.zoom.us/j/86758457932)        |
