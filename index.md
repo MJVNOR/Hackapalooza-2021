@@ -64,6 +64,14 @@ Aquí se compartirán historias de éxitos y fracasos de los egresados de cienci
   <img src="https://github.com/MJVNOR/Hackapalooza-2021/blob/main/Hack2021.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
+### Rifa sorpresa
+
+  Rifa de hoodie por ser la ultima platica y el cierre del evento
+
+<p align="center">
+  <img src="https://github.com/MJVNOR/Hackapalooza-2021/blob/main/NO_TE_PIERDAS_LA_RIFA_DEL_HOODIE.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 ### Cualquier duda a:
   a218210174@unison.mx
 
